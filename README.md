@@ -16,7 +16,7 @@ Head on to my profile to see some stuff and further help me along this journey!
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/yashvardhang11
 
-![Space](https://raw.githubusercontent.com/yashvardhang/yashvardhang/master/space.gif)
+<img src="space.gif" width="1128" height="450"/>
 
 <center>
 
