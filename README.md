@@ -7,19 +7,23 @@ I am Yashvardhan Gupta 🙋🏻‍♂️(He/Him)
 I am a Programmer, Developer, Guitarist, Innovative colleague and Leader.
 
 I am a student specialising in Computer Sciences and, involved in multiple projects including; Programming, Web Development, App Development, Graphic Designing and more!
-<br>
+<br><br>
 Head on to my profile to see some stuff and further help me along this journey!
 
 ## Check out my Projects and Bio on my [Website](https://www.spiralcosmos.com).
 
+Spiral Cosmos is an organization created for the purpose of learning and growing. It works on various projects with the main purpose of improving along the way.
+<br>
+Spiral Cosmos is developed and maintained by me, Yashvardhan Gupta and, you may head on to the website to know more about me, my projects and, to explore some resources.
+
 ## Connect with Me 🤝🏻
 
-![LinkedIn][linkedin-shield][linkedin-url]
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/yashvardhang11
+<p align="center">
+  Badges
+</p>
 
 <img src="space.gif" width="1128" height="400"/>
 
-| ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=yashvardhang&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashvardhang) |
+| ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=yashvardhang&show_icons=true) | Banner |
 | --- | --- |
-| |![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashvardhang) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashvardhang) |![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashvardhang) ||
