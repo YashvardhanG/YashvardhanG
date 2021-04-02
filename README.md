@@ -1,4 +1,4 @@
-[![MastHead](https://raw.githubusercontent.com/yashvardhang/yashvardhang/master/mast.png)](https://www.sprialcosmos.com)
+[![MastHead](https://raw.githubusercontent.com/yashvardhang/yashvardhang/main/mast.png)](https://www.sprialcosmos.com)
 
 # Heyy there! 👋🏻
 
@@ -12,11 +12,10 @@ Head on to my profile to see some stuff and further help me along this journey!
 
 ## Connect with Me 🤝🏻
 
-[![Website](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/ws.svg)](https://praveen.science/)
 [![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/yashvardhang11/]
 
-![Space](https://raw.githubusercontent.com/yashvardhang/yashvardhang/master/space.gif)
+![Space](https://raw.githubusercontent.com/yashvardhang/yashvardhang/main/space.gif)
 
-| !GitHub Statistics](https://github-readme-stats.vercel.app/api?username=yashvardhang&show_icons=true)
+| ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=yashvardhang&show_icons=true)
 | --- | --- |
 | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashvardhang)
