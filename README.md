@@ -1,16 +1,22 @@
-### Hi there 👋
+[![MastHead](https://raw.githubusercontent.com/yashvardhang/yashvardhang/master/mast.png)](https://www.sprialcosmos.com)
 
-<!--
-**YashvardhanG/YashvardhanG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Heyy there! 👋🏻
 
-Here are some ideas to get you started:
+I am Yashvardhan Gupta 🙋🏻‍♂️(He/Him) 
+I am a Programmer, Developer, Guitarist, Innovative colleague and Leader.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a student specialising in Computer Sciences and, involved in multiple projects including; Programming, Web Development, App Development, Graphic Designing and more!
+Head on to my profile to see some stuff and further help me along this journey!
+
+### Check out my Projects and Bio Streams on my [Website](https://www.spiralcosmos.com).
+
+## Connect with Me 🤝🏻
+
+[![Website](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/ws.svg)](https://praveen.science/)
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/yashvardhang11/]
+
+![Space](https://raw.githubusercontent.com/yashvardhang/yashvardhang/master/space.gif)
+
+| !GitHub Statistics](https://github-readme-stats.vercel.app/api?username=yashvardhang&show_icons=true)
+| --- | --- |
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashvardhang)
