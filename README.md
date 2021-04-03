@@ -19,11 +19,19 @@ Spiral Cosmos is developed and maintained by me, Yashvardhan Gupta and, you may 
 ## Connect with Me 🤝🏻
 
 <p align="center">
-  Badges
+  <table class="center">
+    <tr>
+      <td><a href = "https://www.linkedin.com/in/yashvardhang11/"><img src = "Main/linkedin.svg"></a></td>
+      <td><a href = "www.spiralcosmos.com"><img src = "Main/globe.svg"></a></td>
+      <td><a href = "https://www.instagram.com/yashvardhang/"><img src = "Main/instagram.svg"></a></td>
+      <td><a href = "https://dribbble.com/yashvardhang"><img src = "Main/dribble.svg"></a></td>
+      <td><a href = "mailto:spiralcosmosdeveloper@gmail.com"><img src = "Main/envelope.svg"></a></td>
+    </tr>
+  </table>
 </p>
 
 <img src="space.gif" width="1128" height="400"/>
 
-| ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=yashvardhang&show_icons=true) | Banner |
+| ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=yashvardhang&show_icons=true&theme=nord) | Banner |
 | --- | --- |
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashvardhang) |![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashvardhang) ||
