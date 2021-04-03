@@ -19,15 +19,11 @@ Spiral Cosmos is developed and maintained by me, Yashvardhan Gupta and, you may 
 ## Connect with Me 🤝🏻
 
 <p align="center">
-  <table class="center">
-    <tr>
-      <td><a href = "https://www.linkedin.com/in/yashvardhang11/"><img src = "Main/linkedin.svg"></a></td>
-      <td><a href = "www.spiralcosmos.com"><img src = "Main/globe.svg"></a></td>
-      <td><a href = "https://www.instagram.com/yashvardhang/"><img src = "Main/instagram.svg"></a></td>
-      <td><a href = "https://dribbble.com/yashvardhang"><img src = "Main/dribble.svg"></a></td>
-      <td><a href = "mailto:spiralcosmosdeveloper@gmail.com"><img src = "Main/envelope.svg"></a></td>
-    </tr>
-  </table>
+  <a href = "https://www.linkedin.com/in/yashvardhang11/"><img src ="https://raw.githubusercontent.com/yashvardhang/yashvardhang/master/Main/linkedin.svg" width ='30' height = '30'></a>
+  <a href = "www.spiralcosmos.com"><img src ="https://raw.githubusercontent.com/yashvardhang/yashvardhang/master/Main/globe.svg" width ='30' height = '30'></a>
+  <a href = "https://www.instagram.com/yashvardhang/"><img src ="https://raw.githubusercontent.com/yashvardhang/yashvardhang/master/Main/instagram.svg" width ='30' height = '30'></a>
+  <a href = "https://dribbble.com/yashvardhang"><img src ="https://raw.githubusercontent.com/yashvardhang/yashvardhang/master/Main/dribble.svg" width ='30' height = '30'></a>
+  <a href = "mailto:spiralcosmosdeveloper@gmail.com"><img src ="https://raw.githubusercontent.com/yashvardhang/yashvardhang/master/Main/envelope.svg" width ='30' height = '30'></a>
 </p>
 
 <img src="space.gif" width="1128" height="400"/>
