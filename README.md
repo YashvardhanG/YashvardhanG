@@ -31,4 +31,4 @@ Spiral Cosmos is developed and maintained by me, Yashvardhan Gupta and, you may 
 <!-- Markdown -->
 | ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=yashvardhang&show_icons=true&theme=nord) | ![Jokes Card](https://readme-jokes.vercel.app/api?theme=%random)|
 | --- | --- |
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashvardhang) |![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashvardhang) ||
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashvardhang&layout=compact)](https://github.com/yashvardhang/github-readme-stats) |![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashvardhang) ||
