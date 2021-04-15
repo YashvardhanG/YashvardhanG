@@ -17,9 +17,10 @@ Spiral Cosmos is an organization created for the purpose of learning and growing
 Spiral Cosmos is developed and maintained by me, Yashvardhan Gupta and, you may head on to the website to know more about me, my projects and, to explore some resources.
 <br><br>
 <p align = 'center'>
-  <a href = "www. spiralcosmos.com"><img src = 'Spiral Cosmos.png'></a>
+  <a href = "www. spiralcosmos.com"><img src = 'Spiral Cosmos.png' height='140' width = '150'></a>
 </p>
 <br><br>
+
 ## Connect with Me 🤝🏻
 
 <p align="center">
