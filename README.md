@@ -1,4 +1,4 @@
-[![MastHead](https://raw.githubusercontent.com/yashvardhang/yashvardhang/master/mast.png)](https://www.sprialcosmos.com)
+[![MastHead](https://raw.githubusercontent.com/yashvardhang/yashvardhang/master/mast.png)](https://www.spiralcosmos.com)
 
 # Heyy there! 👋🏻
 
