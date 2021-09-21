@@ -4,7 +4,7 @@
 
 I am Yashvardhan Gupta 🙋🏻‍♂️(He/Him) 
 <br>
-I am a Programmer, Developer, Guitarist, Innovative colleague and Leader.
+I am a Developer, Programmer, Designer, Guitarist, Innovative colleague and Leader.
 
 I am a student specialising in Computer Sciences and, involved in multiple projects including; Programming, Web Development, App Development, Graphic Designing and more!
 <br><br>
