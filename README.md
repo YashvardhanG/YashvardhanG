@@ -10,15 +10,15 @@ I am a student specialising in Computer Sciences and, involved in multiple proje
 <br><br>
 Head on to my profile to see some stuff and further help me along this journey!
 
-## Check out my Projects and Bio on my [Website](https://www.spiralcosmos.com).
+## Check out my Projects and Bio on my [Website](http://www.yashvardhang.xyz).
 <br>
 Spiral Cosmos is an organization created for the purpose of learning and growing. It works on various projects with the main purpose of improving along the way.
 <br><br>
-Spiral Cosmos is developed and maintained by me, Yashvardhan Gupta and, you may head on to the website to know more about me, my projects and, to explore some resources.
+You may head on to my <b><a href = 'http://www.yashvardhang.xyz'>Portfolio Website</a></b> to know more my projects and explore some resources.
 <br><br>
 <p align = 'center'>
   <br>
-  <a href = "https://www.spiralcosmos.com"><img src = 'Spiral Cosmos.png' height='140' width = '150'></a>
+  <a href = "http://www.yashvardhang.xyz"><img src = 'Spiral Cosmos.png' height='140' width = '150'></a>
 </p>
 <br>
 
