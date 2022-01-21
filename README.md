@@ -26,7 +26,7 @@ You may head on to my <b><a href = 'http://www.yashvardhang.xyz'>Portfolio Websi
 
 <p align="center">
   <a href = "https://www.linkedin.com/in/yashvardhang11/"><img src ="https://raw.githubusercontent.com/yashvardhang/yashvardhang/master/Main/linkedin.svg" width ='30' height = '30'></a>
-  <a href = "https://www.spiralcosmos.com"><img src ="https://raw.githubusercontent.com/yashvardhang/yashvardhang/master/Main/globe.svg" width ='30' height = '30'></a>
+  <a href = "http://www.yashvardhang.xyz"><img src ="https://raw.githubusercontent.com/yashvardhang/yashvardhang/master/Main/globe.svg" width ='30' height = '30'></a>
   <a href = "https://www.instagram.com/yashvardhang/"><img src ="https://raw.githubusercontent.com/yashvardhang/yashvardhang/master/Main/instagram.svg" width ='30' height = '30'></a>
   <a href = "https://dribbble.com/yashvardhang"><img src ="https://raw.githubusercontent.com/yashvardhang/yashvardhang/master/Main/dribble.svg" width ='30' height = '30'></a>
   <a href = "mailto:spiralcosmosdeveloper@gmail.com"><img src ="https://raw.githubusercontent.com/yashvardhang/yashvardhang/master/Main/envelope.svg" width ='30' height = '30'></a>
