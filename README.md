@@ -17,8 +17,7 @@ Spiral Cosmos is an organization created for the purpose of learning and growing
 You may head on to my <b><a href = 'http://www.yashvardhang.xyz'>Portfolio Website</a></b> to know more my projects and explore some resources.
 <br><br>
 <p align = 'center'>
-  <br>
-  <a href = "http://www.yashvardhang.xyz"><img src = 'Spiral Cosmos.png' height='140' width = '150'></a>
+  <a href = "http://www.yashvardhang.xyz"><img src = 'Wolf_1.jpg' height='150' width = '150' style="border-radius: 100%;"></a>
 </p>
 <br>
 
