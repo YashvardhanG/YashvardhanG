@@ -55,6 +55,6 @@ Currently involved in numerous projects including, Artificial Intelligence and M
 <img src="space.gif" width="1128" height="400"/>
 
 <!-- Markdown -->
-| ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=yashvardhang&show_icons=true&theme=github_dark) | ![Jokes Card](https://readme-jokes.vercel.app/api?theme=%random)|
-| --- | --- |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashvardhang&layout=compact&theme=github_dark)](https://github.com/yashvardhang/github-readme-stats) |![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashvardhang&theme=dark) ||
+| ![Spotify Player](https://spotify-readme-iota-plum.vercel.app/api?theme=dark) |![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashvardhang&theme=dark) |
+| --:  | :-: |
+|![Readme Quotes](https://quotes-github-readme.vercel.app/api?theme=dracula&type=horizontal)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashvardhang&theme=github_dark&layout=compact)](https://github.com/yashvardhang/github-readme-stats)|
