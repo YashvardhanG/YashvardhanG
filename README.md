@@ -4,7 +4,7 @@
 
 I am Yashvardhan Gupta 🙋🏻‍♂️(He/Him) 
 <br>
-I’m a 21-year-old Developer, Programmer, Designer, Guitarist; A motivated, innovative colleague and leader with a strong will to learn, develop, and acquire new skills. <br><br>
+I’m a 23-year-old Developer, Programmer, Designer, Guitarist; A motivated, innovative colleague and leader with a strong will to learn, develop, and acquire new skills. <br><br>
 Currently involved in numerous projects including, Artificial Intelligence and Machine Learning, Application and Web Development, Internet of Things (IoT), Hardware Projects, Graphic Designing and much more. I'd love it if you could head on to my website, take a look at the various projects I've been working on and, share your reviews with me!<br><br>
 
 ## My [Projects](http://www.yashvardhang.xyz) and Skills
