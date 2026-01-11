@@ -1,6 +1,6 @@
 [![MastHead](https://raw.githubusercontent.com/yashvardhang/yashvardhang/master/Banner.png)](https://www.yashvardhang.xyz)
 
-# Heyy there! 👋🏻
+# Hey there! 👋🏻
 
 I am Yashvardhan Gupta 🙋🏻‍♂️(He/Him) 
 <br>
