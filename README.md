@@ -1,4 +1,4 @@
-[![MastHead](https://raw.githubusercontent.com/yashvardhang/yashvardhang/master/Banner.png)](https://www.yashvardhang.xyz)
+[![MastHead](https://raw.githubusercontent.com/yashvardhang/yashvardhang/master/Banner.png)](https://www.yashvardhang.dev)
 
 # Hey there! 👋🏻
 
@@ -7,7 +7,7 @@ I am Yashvardhan Gupta 🙋🏻‍♂️(He/Him)
 I’m a Developer, Programmer, Designer, Guitarist; A motivated, innovative colleague and leader with a strong will to learn, develop, and acquire new skills. <br><br>
 Currently involved in numerous projects including, Artificial Intelligence and Machine Learning, Application and Web Development, Internet of Things (IoT), Hardware Projects, Graphic Designing and much more. I'd love it if you could head on to my website, take a look at the various projects I've been working on and, share your reviews with me!<br><br>
 
-## My [Projects](http://www.yashvardhang.xyz) and Skills
+## My [Projects](http://www.yashvardhang.dev) and Skills
 
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
@@ -36,16 +36,15 @@ Currently involved in numerous projects including, Artificial Intelligence and M
 
 <br>
 <p align = 'center'>
-  You may head on to my <b><a href = 'http://www.yashvardhang.xyz'>Portfolio Website</a></b> to know more my projects and explore some resources. <br><br>
-  <a href = "http://www.yashvardhang.xyz"><img src = 'Wolf_1.jpg' height='150' width = '150' style="border-radius: 100%;"></a>
+  You may head on to my <b><a href = 'http://www.yashvardhang.dev'>Portfolio Website</a></b> to know more my projects and explore some resources. <br><br>
+  <a href = "http://www.yashvardhang.dev"><img src = 'Wolf_1.jpg' height='150' width = '150' style="border-radius: 100%;"></a>
 </p>
 <br>
 
 ## Connect with Me 🤝🏻
 
 <p align="center">
-  <a href = "https://www.instagram.com/yashvardhang/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href = "http://www.yashvardhang.xyz"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href = "http://www.yashvardhang.dev"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
   <a href = "https://www.linkedin.com/in/yashvardhang11/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href = "https://dribbble.com/yashvardhang"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /></a>
   <a href = "mailto:yashvardhang11@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
