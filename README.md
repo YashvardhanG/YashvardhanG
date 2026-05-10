@@ -45,9 +45,9 @@ Currently involved in numerous projects including, Artificial Intelligence and M
 
 <p align="center">
   <a href = "http://www.yashvardhang.dev"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-  <a href = "https://www.linkedin.com/in/yashvardhang11/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href = "https://www.linkedin.com/in/yashvardhangx/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href = "https://dribbble.com/yashvardhang"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /></a>
-  <a href = "mailto:yashvardhang11@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
+  <a href = "mailto:yashvardhang@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
   <a href = "mailto:yashvardhang11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
