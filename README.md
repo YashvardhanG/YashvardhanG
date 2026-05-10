@@ -1,4 +1,4 @@
-[![MastHead](https://raw.githubusercontent.com/yashvardhang/yashvardhang/master/Banner.png)](https://www.yashvardhang.dev)
+[![MastHead](https://github.com/user-attachments/assets/cb530a4d-e3a7-455e-82d5-9bf18794a25a)](https://www.yashvardhang.dev)
 
 # Hey there! 👋🏻
 
@@ -48,7 +48,7 @@ Currently involved in numerous projects including, Artificial Intelligence and M
   <a href = "https://www.linkedin.com/in/yashvardhangx/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href = "https://dribbble.com/yashvardhang"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /></a>
   <a href = "mailto:yashvardhang@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
-  <a href = "mailto:yashvardhang11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href = "mailto:mail@yashvardhang.dev"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <img src="space.gif" width="1128" height="400"/>
